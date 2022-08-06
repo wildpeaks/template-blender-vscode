@@ -1,0 +1,15 @@
+# Ignore everything by default:
+/*
+/*/
+
+# Allow these files and folders:
+!/LICENSE
+!/README.md
+!/.editorconfig
+!/.gitattributes
+!/.gitignore
+!/.vscode
+!/scripts
+
+# Ignore these regardless:
+WAS *

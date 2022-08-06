@@ -1,0 +1,10 @@
+{
+	"recommendations": [
+		"EditorConfig.editorconfig",
+		"ms-python.python",
+		"jacqueslucke.blender-development",
+
+		// Optional:
+		// "ms-python.pylint"
+	]
+}
